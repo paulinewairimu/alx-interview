@@ -1,0 +1,1 @@
+This is the PASCAL'S TRIANGLE CODE
